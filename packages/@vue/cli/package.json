@@ -48,7 +48,7 @@
     "lodash.clonedeep": "^4.5.0",
     "lru-cache": "^5.1.1",
     "minimist": "^1.2.5",
-    "recast": "^0.18.8",
+    "recast": "^0.19.1",
     "resolve": "^1.17.0",
     "shortid": "^2.2.15",
     "slash": "^3.0.0",
